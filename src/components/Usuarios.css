@@ -1,0 +1,8 @@
+.userCards{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(189, 186, 184);
+    border-radius: 25px;   
+    border: 5px solid rgba(255, 102, 0, 0.877);
+    
+}
